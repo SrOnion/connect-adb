@@ -1,4 +1,4 @@
 # [ADB-HACKING]
 
-## Requisitos
+## Install
 ### sudo apt-get install adb scrcpy
