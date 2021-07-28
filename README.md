@@ -1,4 +1,5 @@
-# [Adb-Connect]
+# Adb Connect
+Just a script that facilitates functions in adb
 
 ## How to install
 
