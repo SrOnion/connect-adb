@@ -1,9 +1,8 @@
-# [ADB-HACKING]
+# [Adb-Connect]
 
-## Install
+## How to install
 
-#### --> sudo apt-get install adb scrcpy 
-#### --> git clone https://github.com/SrOnion/ADB-HACKING.git
-#### --> cd ADB-HACKING
+#### --> git clone https://github.com/SrOnion/connect-adb.git
+#### --> cd connect-adb
 #### --> chmod +x install.sh && ./install.sh
 #### --> python3 adb-hacking.py
