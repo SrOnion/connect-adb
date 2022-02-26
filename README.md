@@ -1,9 +1,10 @@
 # Adb Connect
-Just a script that facilitates functions in adb
+just a script that helps you use adb
 
 ## How to install
-
-#### --> git clone https://github.com/SrOnion/connect-adb.git
-#### --> cd connect-adb
-#### --> chmod +x install.sh && ./install.sh
-#### --> python3 adb-hacking.py
+```bash
+git clone https://github.com/SrOnion/connect-adb.git
+cd connect-adb
+chmod +x install.sh && ./install.sh
+python3 adb-hacking.py
+```
